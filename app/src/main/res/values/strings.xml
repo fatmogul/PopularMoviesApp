@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Popular Movies App</string>
+    <string name="no_internet">No Internet Connection</string>
+    <string name="title">Title:</string>
+    <string name="user_rating">User Rating:</string>
+    <string name="release_date">Release Date:</string>
+    <string name="movie_poster">Movie Poster</string>
+    <string name="overview">Overview:</string>
+    <string name="most_popular">Most Popular</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="error_message">Something went wrong.</string>
+    <string name="pref_view_popular_value">popular</string>
+    <string name="pref_view_rated_value">top_rated</string>
+    <string name="pref_view_favorite_value">favorite</string>
+    <string name="pref_view_popular_label">Most Popular</string>
+    <string name="pref_view_rated_label">Top Rated</string>
+    <string name="pref_view_favorite_label">Your Favorites</string>
+    <string name="pref_view_key" translatable="false">preference</string>
+    <string name="pref_view_label">Sort Type</string>
+    <string name="add_to_favorites">Add to Favorites</string>
+    <string name="remove_from_favorites">Remove from Favorites</string>
+    <string name="available_videos">Available Videos:</string>
+    <string name="reviews">Reviews:</string>
+
+</resources>
